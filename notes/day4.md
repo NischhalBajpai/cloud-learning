@@ -13,7 +13,7 @@
 - ✅ Successfully achieved **AWS Cloud 101 Digital Badge**  
 - This was my **first official cloud badge** 🎉  
 
-![AWS Cloud 101 Badge](./aws-cloud-101-badge.png)
+![AWS Cloud 101 Badge](./aws-educate-introduction-to-cloud-101.png)
 
 ## 💡 Key Takeaways
 - AWS is secure by design but **shared responsibility** is important
